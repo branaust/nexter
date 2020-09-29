@@ -1,0 +1,19 @@
+/////ABSTRACTS/////
+@import "abstracts/_helpers.scss";
+@import "abstracts/_variables.scss";
+
+/////BASE/////
+@import "base/_base.scss";
+@import "base/_typography.scss";
+
+/////COMPONENTS/////
+@import "components/_features.scss";
+@import "components/_gallery.scss";
+@import "components/_homes.scss";
+@import "components/_realtors.scss";
+@import "components/_story.scss";
+
+/////LAYOUT/////
+@import "layout/_footer.scss";
+@import "layout/_header.scss";
+@import "layout/_sidebar.scss";
